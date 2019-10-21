@@ -18,7 +18,7 @@ Node.jsのスキル、仮想DOMへの造詣、SRE領域の知識、全てがこ�
 
 #### 実際の風景
 
-| Trello | 作業風景 |
+| Trello | 日常 |
 | ---    |      ---|
 |<img src="https://user-images.githubusercontent.com/6558862/67187545-665f4e00-f425-11e9-9d5f-871d37b57b9c.png" />|<img src="https://user-images.githubusercontent.com/6558862/67185954-f1d6e000-f421-11e9-966e-ccc0a02e3933.png" />|
 
