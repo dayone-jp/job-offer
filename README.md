@@ -9,7 +9,14 @@
 #### 実務内容
  - Trelloでかんばん方式のタスクアサインを行っています。担当タスクに対して、自分で期限を定め、リリースまで完遂する責任が求められます。またアプリケーションの仕様はすべてが事前に、厳密に決まっているわけではありません。日々の試行錯誤の中で変化していくものです。したがって、仕様プランナーと意思疎通を図ることが必要です。ひとりひとりのこだわりと、チームの連携を高い次元で両立させることで一貫性のあるプロダクトを作り上げていきます。
 - 採用技術は[こちら](https://commmune.hatenablog.com/entry/commmune-architecture)
- 
+
+
+#### 実際の風景
+
+| Trello | 作業風景 |
+| ---    |      ---|
+|![](https://user-images.githubusercontent.com/6558862/67186738-ab828080-f423-11e9-9e5a-7a1d683f2cf8.png)|<img src="https://user-images.githubusercontent.com/6558862/67185954-f1d6e000-f421-11e9-966e-ccc0a02e3933.png" width=100% />|
+
  
 #### 要求要件（カルチャーフィット）
  - [CTOのポエム](/cto-poem.md) / [プロダクト](https://commmune.jp/) への共感
