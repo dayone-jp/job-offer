@@ -1,4 +1,4 @@
-[プロダクトページ](https://commmune.jp/) はこちら
+[commmune公式](https://commmune.jp/) はこちら
 
 
 ### 募集要項
