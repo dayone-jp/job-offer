@@ -15,7 +15,7 @@
 
 | Trello | 作業風景 |
 | ---    |      ---|
-|![](https://user-images.githubusercontent.com/6558862/67186738-ab828080-f423-11e9-9e5a-7a1d683f2cf8.png)|<img src="https://user-images.githubusercontent.com/6558862/67185954-f1d6e000-f421-11e9-966e-ccc0a02e3933.png" width=100% />|
+|<img src="https://user-images.githubusercontent.com/6558862/67187545-665f4e00-f425-11e9-9d5f-871d37b57b9c.png" />|<img src="https://user-images.githubusercontent.com/6558862/67185954-f1d6e000-f421-11e9-966e-ccc0a02e3933.png" />|
 
  
 #### 要求要件（カルチャーフィット）
