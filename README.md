@@ -1,4 +1,4 @@
-[commmune公式](https://commmune.jp/) はこちら
+commmune公式は[こちら](https://commmune.jp/)
 
 
 ### 募集要項
@@ -73,6 +73,7 @@ Node.jsのスキル、仮想DOMへの造詣、SRE領域の知識、全てがこ�
 
 
 #### 応募方法（下記どれでも）
+* [commmune - Wantedly](https://www.wantedly.com/projects/291605)
 * [CTOのTwitter](https://twitter.com/ay_at_commmune)
 * [CTOのfacebook](https://www.facebook.com/akihiro.yamamoto.330)
 
