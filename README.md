@@ -13,8 +13,8 @@ Node.jsのスキル、仮想DOMへの造詣、SRE領域の知識、全てがこ�
 
 #### 実務内容
  - Trelloでかんばん方式のタスクアサインを行っています。担当タスクに対して、自分で期限を定め、リリースまで完遂する責任が求められます。またアプリケーションの仕様はすべてが事前に、厳密に決まっているわけではありません。日々の試行錯誤の中で変化していくものです。したがって、仕様プランナーと意思疎通を図ることが必要です。個人のこだわりと、チームの連携を高い次元で両立させることで一貫性のあるプロダクトを作り上げていきます。
-- 採用技術は[こちら](https://commmune.hatenablog.com/entry/commmune-architecture)
-
+- 技術アーキテクチャは[こちら](https://commmune.hatenablog.com/entry/commmune-architecture)
+  - 主なスタック：Next.js (React.js), Typescript, Node.js, express, MySQL
 
 #### 実際の風景
 
@@ -37,7 +37,7 @@ Node.jsのスキル、仮想DOMへの造詣、SRE領域の知識、全てがこ�
 
 
 #### 希望要件（全てを満たす必要はありません）
- - フロントエンド（React.js）
+ - フロントエンド（Next.js）
      - Reduxやfluxなどフレームワークと組み合わせて使ったことがある
      - redux-sagaなど非同期Action用のライブラリを使ったことがある
      - ServerSideRenderingのメリット、デメリットを説明できる
