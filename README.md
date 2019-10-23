@@ -72,7 +72,8 @@ Node.jsのスキル、仮想DOMへの造詣、SRE領域の知識、全てがこ�
 人材は人財とも言われる通り、私たちが最も重要視する経営資源です。CTOの山本は前職にて若手の技術育成、研修の全社マネージャを務めておりました。commmuneにおいても全メンバーが業務を通じて最大限成長できる環境、場を整えていくことにコミットします。
 
 
-#### 応募方法（下記どれでも）
+
+### 応募方法（下記どれでも）
 * [commmune - Wantedly](https://www.wantedly.com/projects/291605)
 * [CTOのTwitter](https://twitter.com/ay_at_commmune)
 * [CTOのfacebook](https://www.facebook.com/akihiro.yamamoto.330)
