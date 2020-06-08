@@ -74,7 +74,7 @@ Node.jsのスキル、仮想DOMへの造詣、SRE領域の知識、全てがこ�
 
 
 ### 応募方法（下記どれでも）
-* [commmune - Wantedly](https://www.wantedly.com/projects/291605)
+* [commmune - engage](https://en-gage.net/dayone/work_160473)
 * [CTOのTwitter](https://twitter.com/ay_at_commmune)
 * [CTOのfacebook](https://www.facebook.com/akihiro.yamamoto.330)
 
