@@ -158,4 +158,4 @@ Node.jsのスキル、仮想DOMへの造詣、SRE領域の知識、全て有用�
 * [CTOのTwitter](https://twitter.com/ay_at_commmune)
 * [CTOのfacebook](https://www.facebook.com/akihiro.yamamoto.330)
 
-※「募集要項読みました！」と一言ご連絡頂ければ。まずはカフェ / ランチでお話しましょう！
+※「募集要項読みました！」と一言ご連絡頂ければ。まずはハングアウト（Zoom）でお話しましょう！
