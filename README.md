@@ -1,3 +1,9 @@
+#### 実際の風景
+
+| Trello | 日常 |
+| ---    |      ---|
+|<img src="https://user-images.githubusercontent.com/6558862/67187545-665f4e00-f425-11e9-9d5f-871d37b57b9c.png" />|<img src="https://user-images.githubusercontent.com/6558862/67185954-f1d6e000-f421-11e9-966e-ccc0a02e3933.png" />|
+
 commmune公式は[こちら](https://commmune.jp/)
 
 
@@ -53,14 +59,7 @@ Node.jsのスキル、仮想DOMへの造詣、SRE領域の知識、全て有用�
 <br>
 <br>
 
-#### 実際の風景
 
-| Trello | 日常 |
-| ---    |      ---|
-|<img src="https://user-images.githubusercontent.com/6558862/67187545-665f4e00-f425-11e9-9d5f-871d37b57b9c.png" />|<img src="https://user-images.githubusercontent.com/6558862/67185954-f1d6e000-f421-11e9-966e-ccc0a02e3933.png" />|
-
-<br>
-<br>
 
 #### 要求要件（カルチャーフィット）
  - [CTOのポエム](/cto-poem.md) / [プロダクト](https://commmune.jp/) への共感
@@ -80,9 +79,6 @@ Node.jsのスキル、仮想DOMへの造詣、SRE領域の知識、全て有用�
      - Linuxサーバを用いたWebアプリケーションの設計・運用経験
      - TCP/IP, SSH, SSL などのネットワークプロトコルを理解し、F/WやWAFを用いて侵入防御を行った経験
      - コンテナ技術を用いた複数サーバの協調設計の経験
-
-<br>
-<br>
 
 
 #### 希望要件（全てを満たす必要はありません）
