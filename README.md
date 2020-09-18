@@ -157,8 +157,9 @@ Node.jsのスキル、仮想DOMへの造詣、SRE領域の知識、全て有用�
 
 
 ### 応募方法（下記どれでも）
-* [commmune - engage](https://en-gage.net/dayone/work_160473)
+* [SRE](https://commmune-careers.studio.design/sre-engineer)
+* [フロントエンドエンジニア](https://commmune-careers.studio.design/front-engineer)
+* [サーバーサイドエンジニア](https://commmune-careers.studio.design/server-engineer)
 * [CTOのTwitter](https://twitter.com/ay_at_commmune)
-* [CTOのfacebook](https://www.facebook.com/akihiro.yamamoto.330)
 
 ※「募集要項読みました！」と一言ご連絡頂ければ。まずはハングアウト（Zoom）でお話しましょう！
